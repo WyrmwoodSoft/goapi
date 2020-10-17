@@ -1,6 +1,6 @@
 FROM golang:1.15
 
-WORKDIR C:\Users\metro\Desktop\Wyrmwood\GoApi
+WORKDIR C:/Users/metro/Desktop/Wyrmwood/GoApi
 
 COPY . .
 
